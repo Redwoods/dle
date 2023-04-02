@@ -127,7 +127,7 @@ import numpy as np
 
 # Multi-Layer Perceptron class definition
 class MLP:
-    def __init__(self, input_size, hidden_size, output_size, lr=1, epochs=10):
+    def __init__(self, input_size, hidden_size, output_size, lr=1, epochs=1000):
         self.W1 = np.random.randn(hidden_size, input_size+1) # weights for input to hidden layer
         self.W2 = np.random.randn(output_size, hidden_size+1) # weights for hidden to output layer
         self.epochs = epochs
@@ -172,7 +172,7 @@ class MLP:
         for _ in range(self.epochs):
             for i in range(d.shape[0]):
                 x = X[i]
-                y = self.predict(x)
+                # y = self.predict(x)
                 self.backpropagate(x, d[i])
 
 # Input values
@@ -182,18 +182,22 @@ X = np.array([[0,0], [0,1], [1,0], [1,1]])
 d = np.array([[0], [1], [1], [0]])
 
 # Multi-Layer Perceptron model
-model = MLP(input_size=2, hidden_size=3, output_size=1)
+model = MLP(input_size=2, hidden_size=8, output_size=1) #, lr=0.01)
 model.fit(X, d)
 
 # Testing the model
 x_test = np.array([1, 1])
-print(model.predict(x_test)) # Output: [0.03203634]
+print(model.predict(x_test)) # Output: [0.03280766]
 x_test = np.array([0, 1])
-print(model.predict(x_test)) # Output: [0.95244746]
+print(model.predict(x_test)) # Output: [0.96868871]
+x_test = np.array([1, 0])
+print(model.predict(x_test)) # Output: [0.96786907]
+x_test = np.array([0, 0])
+print(model.predict(x_test)) # Output: [0.02866008]
 
 ```
 
-위 코드는 Multi-Layer Perceptron 모델을 이용하여 XOR 문제를 해결한 코드입니다. MLP 모델은 다층 Perceptron 모델로, 여러 개의 Perceptron 모델을 결합하여 보다 복잡한 문제를 해결할 수 있습니다. 이 코드에서는 3개의 hidden layer 노드를 사용하여 XOR 문제를 해결하였습니다. 이 모델은 input들이 서로 다른 값일 때 1을 반환하고, input들이 같은 값일 때 0을 반환하는 XOR 문제를 성공적으로 해결할 수 있습니다.
+위 코드는 Multi-Layer Perceptron 모델을 이용하여 XOR 문제를 해결한 코드입니다. MLP 모델은 다층 Perceptron 모델로, 여러 개의 Perceptron 모델을 결합하여 보다 복잡한 문제를 해결할 수 있습니다. 이 코드에서는 8개의 hidden layer 노드를 사용하여 XOR 문제를 해결하였습니다. 이 모델은 input들이 서로 다른 값일 때 1을 반환하고, input들이 같은 값일 때 0을 반환하는 XOR 문제를 성공적으로 해결할 수 있습니다. 단 epochs는 100 이상으로 크게 지정해야됩니다.
 
 ### XOR 연산을 제대로 수행하는 keras를 이용한 딥러닝 코드를 만들어줘.
 
