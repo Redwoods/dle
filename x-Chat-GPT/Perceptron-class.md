@@ -195,7 +195,7 @@ print(model.predict(x_test)) # Output: [0.95244746]
 
 위 코드는 Multi-Layer Perceptron 모델을 이용하여 XOR 문제를 해결한 코드입니다. MLP 모델은 다층 Perceptron 모델로, 여러 개의 Perceptron 모델을 결합하여 보다 복잡한 문제를 해결할 수 있습니다. 이 코드에서는 3개의 hidden layer 노드를 사용하여 XOR 문제를 해결하였습니다. 이 모델은 input들이 서로 다른 값일 때 1을 반환하고, input들이 같은 값일 때 0을 반환하는 XOR 문제를 성공적으로 해결할 수 있습니다.
 
-### XOR 연산을 제대로 수행하는 kears를 이용한 딥러닝 코드를 만들어줘.
+### XOR 연산을 제대로 수행하는 keras를 이용한 딥러닝 코드를 만들어줘.
 
 다음은 Keras를 사용하여 XOR 문제를 해결하는 코드입니다.
 
