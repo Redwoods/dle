@@ -1,7 +1,7 @@
 # Deep Learning Lecture Schedule
 
 **Human:**
-This semester, I took a deep learning lecture. Please plan the lecture content and 16-week schedule
+This semester, I took a deep learning lecture. Please plan the lecture contents and 16-week schedule
 
 ***
 
