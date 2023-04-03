@@ -83,7 +83,7 @@ Please translate the above answer into Korean.
 
 8-9 주차: 이미지 데이터의 전처리, 데이터 증강, 데이터셋 생성.
 
-10-11 주차: 이미지 분석 작업에 대한 전이 학습과 fine-tuning 사전 학습된 모델
+10-11 주차: 이미지 분석 작업에 대한 사전 학습된 모델을 이용하는 전이 학습과 fine-tuning 
 
 12-13 주차: 물체 탐지, 경계 상자, 앵커 상자, non-maximum suppression 개념 포함.
 
