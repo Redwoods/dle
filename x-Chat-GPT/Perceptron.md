@@ -1,6 +1,8 @@
 # Preceptron
 - Bing AI
-- https://towardsdatascience.com/perceptrons-the-first-neural-network-model-8b3ee4513757
+- https://towardsdatascience.com/perceptrons-the-first-neural-network-model-8b3ee4513757  
+
+---
 
 **Human:**
 XOR 연산을 학습하는 퍼셉트론 코드를 만들고 설명해줘.
