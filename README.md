@@ -17,7 +17,7 @@
   * [dl02: 정환희](https://github.com/alemskdlt/dl02) * * * * * *
   * [dl03: 하이든](https://github.com/HayDen-Gonne/dl03) * * * @ @ *
   * [dl04: 하정현#]() # # # # # #
-  * [dl05: 김재준](https://github.com/jaejun22/dl05) * * # * * #
+  * [dl05: 김재준?](https://github.com/jaejun22/dl05) * * # * * #
   * [dl06: 오승권#]() # # # # # #
   * [dl07: 혼곤졸](https://github.com/20211527/dl07) */2 * */2 */2 * *
   * [dl08: 허은준](https://github.com/kukichocollis/dl08) */2 */2 */2 */2 @ *
@@ -27,10 +27,10 @@
   * [dl12: 김민혁](https://github.com/JerryK97/dl12) * * * @ * #
   * [dl13: 이재혁](https://github.com/jae-hyuck/dl13) * * * * * *
   * [dl14: 강동협](https://github.com/Hyup98/DL14) * * * */2 * *
-  * [dl15: 강창호](https://github.com/Kangchangho1234/dl15) # # # # # #
+  * [dl15: ]
   * [dl16: 김민제](https://github.com/mixhub10/dl16) * * * @ @ @
   * [dl17: 박규현](https://github.com/Park20182618/dl17) * * # */2 * *
-  * [dl18: 윤종식](https://github.com/jongsik22/dl18) # # # # # #
+  * [dl18: ]
   * [dl19: 이재현](https://github.com/iamgus123/dl19) * * * @ * @/2
   
 ---
