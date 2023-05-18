@@ -24,7 +24,7 @@
   * [dl09: 윤상현#]() # # # # # # P1@ # #
   * [dl10: 박준혁](https://github.com/20212609/dl10) # # # # # # P1# # #
   * [dl11: 권다은](https://github.com/daeunkk/dl11) * * * * * * P1@@/2 @/2 #
-  * [dl12: 김민혁](https://github.com/JerryK97/dl12) * * * @ * # P1@@/2 @ @
+  * [dl12: 김민혁](https://github.com/JerryK97/dl12) * * * @ * * P1@@/2 @ @
   * [dl13: 이재혁](https://github.com/jae-hyuck/dl13) * * * * * * P1@@  @ @
   * [dl14: 강동협](https://github.com/Hyup98/DL14) * * * */2 * * P1@@ @/2 @
   * [dl15: ]
