@@ -128,7 +128,7 @@ def train_gan():
 
 train_gan()
 
-# fake iamges
+# fake images from trained generator
 noise = np.random.uniform(-1.0, 1.0,
                           size=[5, Z_DIMENSIONS])
 generated_image = generator.predict(noise)
