@@ -14,8 +14,8 @@
 - 수업 노트 관리 및 과제/프로젝트 제출/평가 (평가 단계: #, *, @, @@)
 - 개인별 repo : github에 repo를 만들어서 수업 결과와 과제 제출                
   * [dl01: 김석영](https://github.com/cheesedog-paradise/dl01) */2 # # # # # P1@@/2 @ @ @
-  * [dl02: 정환희](https://github.com/alemskdlt/dl02) * * * * * * P1@@ @ @ @
-  * [dl03: 하이든](https://github.com/HayDen-Gonne/dl03) * * * @ @ * P1@@ @ @ @
+  * [dl02: 정환희](https://github.com/alemskdlt/dl02) * * * * * * P1@@ @ @ @/2
+  * [dl03: 하이든](https://github.com/HayDen-Gonne/dl03) * * * @ @ * P1@@ @ @ @/2
   * [dl04: 하정현#]() # # # # # # P1* # # #
   * [dl05: ]
   * [dl06: 오승권#]() # # # # # # P1# # # #
