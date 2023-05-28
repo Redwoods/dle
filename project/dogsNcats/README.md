@@ -1,6 +1,6 @@
 # Transfer Learning
-- ### dogs & cats dataset
 ---
+- ### dogs & cats dataset
 
 - PetImages/train/cat 1000
 - PetImages/train/dog 1000
