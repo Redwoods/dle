@@ -1,8 +1,8 @@
 # Transfer Learning
-- ## Tensorflow dataset from user images
-- ## Data augmentation
-- ## callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
-- ## 3 kinds of TL: ConvNet, Fine Tuning, Full Training
+  - ### Tensorflow dataset from user images
+  - ### Data augmentation
+  - ### callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
+  - ### 3 kinds of TL: ConvNet, Fine Tuning, Full Training
 
 - ### dogs & cats dataset
   - PetImages/train/cat 1000
