@@ -1,4 +1,4 @@
-# Transfer Learning
+- # Transfer Learning
   - ### Tensorflow dataset from user images
   - ### Data augmentation
   - ### callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
