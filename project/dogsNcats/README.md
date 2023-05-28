@@ -3,7 +3,7 @@
 - ## Data augmentation
 - ## callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 - ## 3 kinds of TL: ConvNet, Fine Tuning, Full Training
----
+
 - ### dogs & cats dataset
   - PetImages/train/cat 1000
   - PetImages/train/dog 1000
