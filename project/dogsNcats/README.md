@@ -7,7 +7,7 @@
   - PetImages/test/dog 100
 
 - ## Transfer Learning
-  A. ConvNet
-  B. Fine Tuning
-  C. Full Training
+  A ConvNet
+  B Fine Tuning
+  C Full Training
   
