@@ -1,7 +1,7 @@
 ## GAN (Generative Adversarial Network: 생성적 적대 신경망)
-## DCGAN (Deep Convolutional GAN)
-- ## mnist
-- ## cifar10
+- ## DCGAN (Deep Convolutional GAN)
+- - ## mnist
+- - ## cifar10
 ## GAN 이란
 - GAN은 생성자(generator)와 판별자(discriminator)라는 두 개의 신경망으로 이루어져 있습니다. 생성자는 무작위 노이즈 벡터를 입력으로 받아 실제 데이터와 유사한 가짜 데이터를 생성하고, 판별자는 생성자가 생성한 가짜 데이터와 실제 데이터를 구분하여 진위 여부를 판별합니다. 이 과정에서 생성자는 판별자를 속이기 위해 더 실제와 유사한 데이터를 생성하게 되고, 판별자는 생성자가 생성한 데이터와 실제 데이터를 잘 구분할 수 있도록 학습하게 됩니다.
 
