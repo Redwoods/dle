@@ -16,7 +16,8 @@
 8. pip install finance-datareader
 9. pip install seaborn
 10. pip install plotly
-11. ..., tensorflow_datasets, tensorflow_addons, keras-nlp
+11. pip install pyqt5 -U
+12. ..., tensorflow_datasets, tensorflow_addons, keras-nlp
 
 ---
 
