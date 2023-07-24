@@ -3,7 +3,7 @@
 1. Download anaconda and install it in windows.  (python 3.10.11 설치됨.)
    * [anaconda prompt에서 다음 실행] conda update --all
   
-2. pip install spyder -U
+2. pip install spyder
    * pip install spyder-terminal
    * pip install spyder-notebook
   
